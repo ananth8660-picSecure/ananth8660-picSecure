@@ -7,6 +7,7 @@
 [![Experience](https://img.shields.io/badge/5%2B%20Years-Angular%20Development-2563EB?style=for-the-badge&logo=angular&logoColor=white)](#about-me)
 [![Focus](https://img.shields.io/badge/Founder-Product%20Engineering-7C3AED?style=for-the-badge)](#featured-products)
 [![Explore](https://img.shields.io/badge/Explore-My%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure?tab=repositories)
+[![Website](https://img.shields.io/badge/Official%20Website-picsecure.in-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://picsecure.in)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+%26+Senior+Software+Developer;Angular+%7C+TypeScript+%7C+Ionic+%7C+Firebase;Building+PicSecure%2C+PG+Management+%26+Svara;Privacy-first+%E2%80%A2+Performance-minded+%E2%80%A2+Product-driven" alt="Founder and developer specialties" />
 
@@ -25,26 +26,47 @@ I'm **Ananth**, a **Founder & Senior Software Developer** with **5+ years of Ang
 
 ## ✨ Featured products
 
+<div align="center">
+
+### A connected ecosystem of practical products
+
+A portfolio built around **private communication, property operations, accessible mobile experiences, AI assistance, and everyday productivity**.
+
+[![PicSecure Website](https://img.shields.io/badge/🌐%20PicSecure-Visit%20Official%20Website-2563EB?style=for-the-badge)](https://picsecure.in)
+[![Explore Repositories](https://img.shields.io/badge/Explore-Public%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure?tab=repositories)
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ PicSecure
-**Privacy-focused communication and media**
 
-An application ecosystem exploring secure conversations, media handling, mobile experiences and carefully designed device integrations.
+<a href="https://picsecure.in"><img src="https://img.shields.io/badge/PS-PICSECURE-2563EB?style=for-the-badge&labelColor=06152B" alt="PicSecure brand name" /></a>
 
-![Focus](https://img.shields.io/badge/Focus-Privacy%20%26%20Communication-2563EB?style=flat-square)
+**Private communication & media — product development**
+
+PicSecure is a privacy-focused communication platform designed around **one-to-one and group conversations, secure media experiences, and voice/video calling**. Its architecture explores encrypted content handling, account and device security, controlled sharing, and cross-platform mobile/web experiences.
+
+**Built around:** Ionic · Angular · Capacitor · Firebase · native device integrations
+
+[![Website](https://img.shields.io/badge/Official%20Website-picsecure.in-06B6D4?style=flat-square&logo=googlechrome&logoColor=white)](https://picsecure.in)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 PG Management
-**Property and resident operations**
 
-A property-management platform covering blocks, floors, rooms, residents, payments and operational workflows, with a focus on scoped access and efficient data loading.
+<img src="https://img.shields.io/badge/PG-PG%20MANAGEMENT-7C3AED?style=for-the-badge&labelColor=19143B" alt="PG Management brand name" />
 
-![Focus](https://img.shields.io/badge/Focus-SaaS%20%26%20Operations-7C3AED?style=flat-square)
+**Property, residents & rent — SaaS platform**
+
+A property-management solution for owners and managers to organize **blocks, floors, rooms, occupancy, residents, rent collection, payment records and operational dashboards** in one workflow. Designed with workspace-based access control, role-aware management, and efficient data loading in mind.
+
+**Built around:** Angular · Firebase · Cloud Functions · role-based access
+
+![Category](https://img.shields.io/badge/Category-Property%20Operations-A78BFA?style=flat-square)
 
 </td>
 </tr>
@@ -52,21 +74,31 @@ A property-management platform covering blocks, floors, rooms, residents, paymen
 <td width="50%" valign="top">
 
 ### 🎙️ [PicSecure Svara](https://github.com/ananth8660-picSecure/picSecure-svara)
-**Multilingual voice assistant — in development**
 
-Exploring Telugu, Hindi and English voice experiences, offline-first speech interfaces and platform-aware device assistance.
+<a href="https://github.com/ananth8660-picSecure/picSecure-svara"><img src="https://img.shields.io/badge/S-PICSECURE%20SVARA-0891B2?style=for-the-badge&labelColor=083344" alt="Svara brand name" /></a>
 
-[![Repository](https://img.shields.io/badge/View-Project-0891B2?style=flat-square&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure/picSecure-svara)
+**Multilingual voice assistant — active development**
+
+Svara is an assistant project aimed at making devices easier to use with **voice-first commands in Telugu, Hindi and English**. The product vision includes offline-first recognition, hands-free workflows, notification assistance and supported device/call controls, subject to OS permissions and testing.
+
+**Built around:** Angular · Ionic · Capacitor · native Android · offline speech
+
+[![Public repo](https://img.shields.io/badge/Explore-Public%20Repository-22D3EE?style=flat-square&logo=github&logoColor=082F49)](https://github.com/ananth8660-picSecure/picSecure-svara)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📸 Photo Dialer
-**Accessible Android calling**
 
-A photo-first dialer project focused on approachable calling interfaces, particularly for seniors and families.
+<img src="https://img.shields.io/badge/PD-PHOTO%20DIALER-EA580C?style=for-the-badge&labelColor=431407" alt="Photo Dialer brand name" />
 
-![Focus](https://img.shields.io/badge/Focus-Android%20%26%20Accessibility-EA580C?style=flat-square)
+**Simpler Android calling — accessibility-focused**
+
+A photo-first calling experience designed for **seniors, families and anyone who prefers visual contacts over complex phone menus**. The project focuses on recognizable contact photos, a simplified dialer, customizable call screens, native Telecom integration and privacy-conscious on-device contacts.
+
+**Built around:** Android · native Telecom integrations · accessible UI
+
+![Category](https://img.shields.io/badge/Category-Accessibility%20%26%20Calling-F97316?style=flat-square)
 
 </td>
 </tr>
@@ -74,17 +106,22 @@ A photo-first dialer project focused on approachable calling interfaces, particu
 <td colspan="2" valign="top">
 
 ### ⏰ PicSecure Renew
-**Renewal tracking across devices**
 
-A renewal-management project spanning domains, subscriptions, reminders and a local-first experience for desktop, web and Android.
+<img src="https://img.shields.io/badge/PR-PICSECURE%20RENEW-0F766E?style=for-the-badge&labelColor=052E2B" alt="PicSecure Renew brand name" />
 
-![Focus](https://img.shields.io/badge/Focus-Productivity%20%26%20Offline--First-0F766E?style=flat-square)
+**One place for your renewals, expiry dates & reminders**
+
+A local-first organizer for **domain names, hosting, email services, software subscriptions, certificates and important renewals**. Its documented MVP includes expiry countdowns, urgency filters, reminder schedules, RDAP-based domain checks, local backups, optional account sync and desktop/Android targets.
+
+**Built around:** React · TypeScript · Firebase · Tauri · Capacitor
+
+![Category](https://img.shields.io/badge/Category-Renewal%20Tracking%20%26%20Productivity-14B8A6?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-> 🔐 **Source privacy matters.** Some featured product repositories are private. This public overview does not expose their implementation, configurations, secrets or internal documentation.
+> **Portfolio transparency:** Product descriptions reflect the scope and direction of these projects, not a claim that every planned feature is released or tested. Private project source repositories remain private. The colored PS/PG/S/PD/PR identifiers are profile graphics, **not replacements for the official app logos**.
 
 ## 🌐 Public repository directory
 
