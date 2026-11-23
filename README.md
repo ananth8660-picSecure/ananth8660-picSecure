@@ -8,8 +8,15 @@
 [![Focus](https://img.shields.io/badge/Founder-Product%20Engineering-7C3AED?style=for-the-badge)](#featured-products)
 [![Explore](https://img.shields.io/badge/Explore-My%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure?tab=repositories)
 [![Website](https://img.shields.io/badge/Official%20Website-picsecure.in-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://picsecure.in)
+[![Featured Products](https://img.shields.io/badge/Explore-Product%20Portfolio-7C3AED?style=for-the-badge)](#-featured-products)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+%26+Senior+Software+Developer;Angular+%7C+TypeScript+%7C+Ionic+%7C+Firebase;Building+PicSecure%2C+PG+Management+%26+Svara;Privacy-first+%E2%80%A2+Performance-minded+%E2%80%A2+Product-driven" alt="Founder and developer specialties" />
+
+</div>
+
+<div align="center">
+
+**[About](#-about-me) · [Featured Products](#-featured-products) · [Open Source](#-public-repository-directory) · [Engineering](#-engineering-approach) · [Tech Stack](#-technology-stack) · [GitHub Activity](#-github-activity)**
 
 </div>
 
@@ -123,6 +130,38 @@ A local-first organizer for **domain names, hosting, email services, software su
 
 > **Portfolio transparency:** Product descriptions reflect the scope and direction of these projects, not a claim that every planned feature is released or tested. Private project source repositories remain private. The five app icons above are optimized copies of the original logos provided by the product creator. Product sources and internal configurations stay private.
 
+## 🧭 Engineering approach
+
+Instead of treating these as isolated apps, I approach them as long-term products: useful workflows first, clear interfaces, reliable foundations, and deliberate privacy boundaries.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚡ Performance**
+
+On-demand loading, scoped data access, component reuse and careful attention to cloud reads and resource usage.
+
+</td>
+<td width="33%" valign="top">
+
+**🔒 Privacy & security**
+
+Least-privilege access, clear roles, protected data, permission-aware integrations and privacy-conscious defaults.
+
+</td>
+<td width="33%" valign="top">
+
+**🎨 Product design**
+
+Readable typography, meaningful colors, consistent components, accessible workflows and responsive mobile-first layouts.
+
+</td>
+</tr>
+</table>
+
+**Areas I work across:** Angular applications · TypeScript architecture · Ionic/Capacitor apps · Firebase integrations · real-time communication · Android interoperability · performance optimization.
+
 ## 🌐 Public repository directory
 
 | Repository | Area |
@@ -136,6 +175,16 @@ A local-first organizer for **domain names, hosting, email services, software su
 Other projects are available to authorized collaborators through their **existing private repositories**.
 
 ## 🧰 Technology stack
+
+| Area | Primary tools & experience |
+| --- | --- |
+| **Frontend engineering** | Angular, TypeScript, JavaScript, RxJS, HTML, CSS |
+| **Cross-platform apps** | Ionic, Capacitor, Progressive Web Apps, Android integrations |
+| **Cloud & data** | Firebase Authentication, Firestore, Cloud Functions, Hosting |
+| **Engineering workflow** | Git, GitHub, modular architecture, performance-minded development |
+| **Growing expertise** | Java, Spring Boot, speech interfaces and offline-first software |
+
+### Tools at a glance
 
 <div align="center">
 
@@ -172,6 +221,8 @@ Other projects are available to authorized collaborators through their **existin
 <div align="center">
 
 **Interested in frontend engineering, cross-platform software or privacy-conscious product development?**
+
+See the project summaries above and explore the public repositories. Product source code that is private remains accessible only to authorized collaborators.
 
 [![Repositories](https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure?tab=repositories)
 
