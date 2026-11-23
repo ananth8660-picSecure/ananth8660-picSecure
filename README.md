@@ -43,7 +43,7 @@ A portfolio built around **private communication, property operations, accessibl
 
 ### 🛡️ PicSecure
 
-<a href="https://picsecure.in"><img src="https://img.shields.io/badge/PS-PICSECURE-2563EB?style=for-the-badge&labelColor=06152B" alt="PicSecure brand name" /></a>
+<a href="https://picsecure.in"><img src="./assets/icons/picsecure.webp" alt="PicSecure original app icon" width="88" height="88" /></a>
 
 **Private communication & media — product development**
 
@@ -58,7 +58,7 @@ PicSecure is a privacy-focused communication platform designed around **one-to-o
 
 ### 🏢 PG Management
 
-<img src="https://img.shields.io/badge/PG-PG%20MANAGEMENT-7C3AED?style=for-the-badge&labelColor=19143B" alt="PG Management brand name" />
+<img src="./assets/icons/pg-management.webp" alt="PG Management original app icon" width="88" height="88" />
 
 **Property, residents & rent — SaaS platform**
 
@@ -75,7 +75,7 @@ A property-management solution for owners and managers to organize **blocks, flo
 
 ### 🎙️ [PicSecure Svara](https://github.com/ananth8660-picSecure/picSecure-svara)
 
-<a href="https://github.com/ananth8660-picSecure/picSecure-svara"><img src="https://img.shields.io/badge/S-PICSECURE%20SVARA-0891B2?style=for-the-badge&labelColor=083344" alt="Svara brand name" /></a>
+<a href="https://github.com/ananth8660-picSecure/picSecure-svara"><img src="./assets/icons/svara.webp" alt="PicSecure Svara original app icon" width="88" height="88" /></a>
 
 **Multilingual voice assistant — active development**
 
@@ -90,7 +90,7 @@ Svara is an assistant project aimed at making devices easier to use with **voice
 
 ### 📸 Photo Dialer
 
-<img src="https://img.shields.io/badge/PD-PHOTO%20DIALER-EA580C?style=for-the-badge&labelColor=431407" alt="Photo Dialer brand name" />
+<img src="./assets/icons/photo-dialer.webp" alt="Photo Dialer original app icon" width="88" height="88" />
 
 **Simpler Android calling — accessibility-focused**
 
@@ -107,7 +107,7 @@ A photo-first calling experience designed for **seniors, families and anyone who
 
 ### ⏰ PicSecure Renew
 
-<img src="https://img.shields.io/badge/PR-PICSECURE%20RENEW-0F766E?style=for-the-badge&labelColor=052E2B" alt="PicSecure Renew brand name" />
+<img src="./assets/icons/picsecure-renew.webp" alt="PicSecure Renew original app icon" width="88" height="88" />
 
 **One place for your renewals, expiry dates & reminders**
 
@@ -121,7 +121,7 @@ A local-first organizer for **domain names, hosting, email services, software su
 </tr>
 </table>
 
-> **Portfolio transparency:** Product descriptions reflect the scope and direction of these projects, not a claim that every planned feature is released or tested. Private project source repositories remain private. The colored PS/PG/S/PD/PR identifiers are profile graphics, **not replacements for the official app logos**.
+> **Portfolio transparency:** Product descriptions reflect the scope and direction of these projects, not a claim that every planned feature is released or tested. Private project source repositories remain private. The five app icons above are optimized copies of the original logos provided by the product creator. Product sources and internal configurations stay private.
 
 ## 🌐 Public repository directory
 
