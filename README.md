@@ -43,7 +43,7 @@ A portfolio built around **private communication, property operations, accessibl
 
 ### 🛡️ PicSecure
 
-<a href="https://picsecure.in"><img src="./assets/icons/picsecure.webp" alt="PicSecure original app icon" width="88" height="88" /></a>
+<a href="https://picsecure.in"><img src="./assets/icons/picsecure-original.webp" alt="PicSecure original app icon" width="88" height="88" /></a>
 
 **Private communication & media — product development**
 
@@ -58,7 +58,7 @@ PicSecure is a privacy-focused communication platform designed around **one-to-o
 
 ### 🏢 PG Management
 
-<img src="./assets/icons/pg-management.webp" alt="PG Management original app icon" width="88" height="88" />
+<img src="./assets/icons/pg-management-original.webp" alt="PG Management original app icon" width="88" height="88" />
 
 **Property, residents & rent — SaaS platform**
 
@@ -75,7 +75,7 @@ A property-management solution for owners and managers to organize **blocks, flo
 
 ### 🎙️ [PicSecure Svara](https://github.com/ananth8660-picSecure/picSecure-svara)
 
-<a href="https://github.com/ananth8660-picSecure/picSecure-svara"><img src="./assets/icons/svara.webp" alt="PicSecure Svara original app icon" width="88" height="88" /></a>
+<a href="https://github.com/ananth8660-picSecure/picSecure-svara"><img src="./assets/icons/svara-original.webp" alt="PicSecure Svara original app icon" width="88" height="88" /></a>
 
 **Multilingual voice assistant — active development**
 
@@ -90,7 +90,7 @@ Svara is an assistant project aimed at making devices easier to use with **voice
 
 ### 📸 Photo Dialer
 
-<img src="./assets/icons/photo-dialer.webp" alt="Photo Dialer original app icon" width="88" height="88" />
+<img src="./assets/icons/photo-dialer-original.webp" alt="Photo Dialer original app icon" width="88" height="88" />
 
 **Simpler Android calling — accessibility-focused**
 
@@ -107,7 +107,7 @@ A photo-first calling experience designed for **seniors, families and anyone who
 
 ### ⏰ PicSecure Renew
 
-<img src="./assets/icons/picsecure-renew.webp" alt="PicSecure Renew original app icon" width="88" height="88" />
+<img src="./assets/icons/picsecure-renew-original.webp" alt="PicSecure Renew original app icon" width="88" height="88" />
 
 **One place for your renewals, expiry dates & reminders**
 
