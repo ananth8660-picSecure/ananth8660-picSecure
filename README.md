@@ -4,11 +4,11 @@
 
 ### Building privacy-first products, polished experiences and scalable software.
 
-[![Experience](https://img.shields.io/badge/5%2B%20Years-Angular%20Development-2563EB?style=for-the-badge&logo=angular&logoColor=white)](#about-me)
-[![Focus](https://img.shields.io/badge/Founder-Product%20Engineering-7C3AED?style=for-the-badge)](#featured-products)
+[![Experience](https://img.shields.io/badge/5%2B%20Years-Angular%20Development-2563EB?style=for-the-badge&logo=angular&logoColor=white)](#-about-me)
+[![Focus](https://img.shields.io/badge/Founder-Product%20Engineering-7C3AED?style=for-the-badge)](#-featured-products)
 [![Explore](https://img.shields.io/badge/Explore-My%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananth8660-picSecure?tab=repositories)
 [![Website](https://img.shields.io/badge/Official%20Website-picsecure.in-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://picsecure.in)
-[![Featured Products](https://img.shields.io/badge/Explore-Product%20Portfolio-7C3AED?style=for-the-badge)](#featured-products)
+[![Featured Products](https://img.shields.io/badge/Explore-Product%20Portfolio-7C3AED?style=for-the-badge)](#-featured-products)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=650&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=800&lines=Founder+%26+Senior+Software+Developer;Angular+%7C+TypeScript+%7C+Ionic+%7C+Firebase;Building+PicSecure%2C+PG+Management+%26+Svara;Privacy-first+%E2%80%A2+Performance-minded+%E2%80%A2+Product-driven" alt="Founder and developer specialties" />
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-**[About](#about-me) · [Featured Products](#featured-products) · [Open Source](#public-repository-directory) · [Engineering](#engineering-approach) · [Tech Stack](#technology-stack) · [GitHub Activity](#github-activity)**
+**[About](#-about-me) · [Featured Products](#-featured-products) · [Open Source](#-public-repository-directory) · [Engineering](#-engineering-approach) · [Tech Stack](#-technology-stack) · [GitHub Activity](#-github-activity)**
 
 </div>
 
